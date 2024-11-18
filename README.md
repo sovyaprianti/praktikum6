@@ -8,15 +8,15 @@
 
 ![soal p6](https://github.com/user-attachments/assets/0b6eb638-1bfb-4078-b8e2-6590129eccec)
 
-''' phyton 
-# Dictionary untuk menyimpan data mahasiswa
+ 
+### Dictionary untuk menyimpan data mahasiswa
 mahasiswa = {}
 
-# Fungsi untuk menghitung nilai akhir
+### Fungsi untuk menghitung nilai akhir
 def hitung_nilai_akhir(nilai_tugas, nilai_uts, nilai_uas):
     return (nilai_tugas * 0.30) + (nilai_uts * 0.35) + (nilai_uas * 0.35)
 
-# Fungsi untuk menampilkan daftar nilai mahasiswa
+### Fungsi untuk menampilkan daftar nilai mahasiswa
 def tampilkan_data():
     if mahasiswa:
         print("\nDaftar Nilai Mahasiswa:")
@@ -29,7 +29,7 @@ def tampilkan_data():
     else:
         print("TIDAK ADA DATA")
 
-# Fungsi untuk menambah data mahasiswa
+### Fungsi untuk menambah data mahasiswa
 def tambah_data():
     nim = input("Masukkan NIM mahasiswa: ")
     nama = input("Masukkan nama mahasiswa: ")
@@ -47,7 +47,7 @@ def tambah_data():
     }
     print(f"Data untuk {nama} (NIM: {nim}) telah ditambahkan.")
 
-# Fungsi untuk mengubah data mahasiswa
+### Fungsi untuk mengubah data mahasiswa
 def ubah_data():
     nim = input("Masukkan NIM mahasiswa yang akan diubah: ")
     if nim in mahasiswa:
@@ -69,7 +69,7 @@ def ubah_data():
     else:
         print("NIM tidak ditemukan.")
 
-# Fungsi untuk menghapus data mahasiswa
+### Fungsi untuk menghapus data mahasiswa
 def hapus_data():
     nim = input("Masukkan NIM mahasiswa yang akan dihapus: ")
     if nim in mahasiswa:
@@ -78,7 +78,7 @@ def hapus_data():
     else:
         print("NIM tidak ditemukan.")
 
-# Fungsi untuk mencari data mahasiswa berdasarkan NIM
+### Fungsi untuk mencari data mahasiswa berdasarkan NIM
 def cari_data():
     nim = input("Masukkan NIM mahasiswa yang dicari: ")
     if nim in mahasiswa:
@@ -87,7 +87,7 @@ def cari_data():
     else:
         print("NIM tidak ditemukan.")
 
-# Fungsi untuk menampilkan menu pilihan
+### Fungsi untuk menampilkan menu pilihan
 def tampilkan_menu():
     print("\nMenu Pilihan:")
     print("(L)ihat Daftar Nilai")
@@ -97,7 +97,7 @@ def tampilkan_menu():
     print("(C)ari Data")
     print("(K)eluar")
 
-# Program utama
+### Program utama
 while True:
     tampilkan_menu()
     pilihan = input("Pilih menu (L/T/U/H/C/K): ").upper()
@@ -117,7 +117,7 @@ while True:
         break
     else:
         print("Pilihan tidak valid. Silakan pilih antara L, T, U, H, C, atau K.")
-        phyton'''
+        
 
 
 
