@@ -253,6 +253,15 @@ while True:
 ```
 Untuk bagian utama dari program, yang menyediakan menu interaktif untuk memilih tindakan yang ingin dilakukan : `(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar`
 
+## Code Program Tersebut:
+
+
+
+## Hasil Program Tersebut:
+
+![hasilp6 2](https://github.com/user-attachments/assets/1315ead7-be28-4088-8868-f1a04faf736a)
+
+
 
 
  
