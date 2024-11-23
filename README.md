@@ -9,7 +9,7 @@
 ![soal p6](https://github.com/user-attachments/assets/0b6eb638-1bfb-4078-b8e2-6590129eccec)
 
  
-# daftar kontak.py
+# Daftar kontak.py
   
   
   ```python
@@ -41,7 +41,21 @@ del kontak["Dina"]
 print("Daftar Kontak setelah menghapus Dina:")
 for nama, nomor in kontak.items():
     print(f"{nama}: {nomor}")
-```   
+```
+
+ ## Code Program Tersebut:
+
+ ![p6 1](https://github.com/user-attachments/assets/71737889-005e-4f5b-906b-1c7161314f25)
+
+ ## Hasil Program Tersebut:
+
+ ![hasilp6 1](https://github.com/user-attachments/assets/9e574558-aa14-4641-81e6-4d86586826d9)
+
+
+
+ 
+ 
+
 
 
 
