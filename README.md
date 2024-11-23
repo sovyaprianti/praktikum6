@@ -6,8 +6,7 @@
 
 # Latihan.py
 
-![soal p6](https://github.com/user-attachments/assets/0b6eb638-1bfb-4078-b8e2-6590129eccec)
-
+![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/ed3dcf195fd99cd0d2628e3c6d371979831d041b/Image/Screenshot%202024-11-15%20102908.png)
  
 # Daftar kontak.py
   
@@ -255,11 +254,15 @@ Untuk bagian utama dari program, yang menyediakan menu interaktif untuk memilih 
 
 ## Code Program Tersebut:
 
-
+![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/5f5a6fba20ef4240594ce28ab696dbf6e181c74d/Image/input%20nilai.png)
 
 ## Hasil Program Tersebut:
 
 ![hasilp6 2](https://github.com/user-attachments/assets/1315ead7-be28-4088-8868-f1a04faf736a)
+
+## Flowchart:
+
+![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/c27e65a41e2a035601a0bb03bcc111ce5223fadd/Image/Screenshot%202024-11-18%20214837.png)
 
 
 
