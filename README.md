@@ -6,7 +6,8 @@
 
 # Latihan.py
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/ed3dcf195fd99cd0d2628e3c6d371979831d041b/Image/Screenshot%202024-11-15%20102908.png)
+![Screenshot 2024-11-15 102908](https://github.com/user-attachments/assets/dc02c413-2280-47df-b3bf-0d84acc72062)
+
  
 # Daftar kontak.py
   
