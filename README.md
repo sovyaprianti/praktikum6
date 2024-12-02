@@ -255,7 +255,7 @@ Untuk bagian utama dari program, yang menyediakan menu interaktif untuk memilih 
 
 ## Code Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/5f5a6fba20ef4240594ce28ab696dbf6e181c74d/Image/input%20nilai.png)
+![input nilai](https://github.com/user-attachments/assets/172e4eee-6098-48ba-b9f5-24feae4e81e6)
 
 ## Hasil Program Tersebut:
 
@@ -263,7 +263,8 @@ Untuk bagian utama dari program, yang menyediakan menu interaktif untuk memilih 
 
 ## Flowchart:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/c27e65a41e2a035601a0bb03bcc111ce5223fadd/Image/Screenshot%202024-11-18%20214837.png)
+![Screenshot 2024-11-18 214837](https://github.com/user-attachments/assets/ffee88ab-2d5c-4c18-a24a-835808123e2c)
+
 
 
 
